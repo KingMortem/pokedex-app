@@ -1,5 +1,14 @@
 # Project Overview
-This is a full-stack project that includes a client-side application built with React and a server-side API built with Node.js and Express.
+This is a full-stack project that includes a client-side application built with React and a server-side API built with Node.js and Express. This is a Gen 1 only pokedex app!
+
+## Features
+* Login with UUID: Securely log in to the app using a unique identifier (UUID).
+* Filter by Name: Filter the Pokémon list by name to quickly find the Pokémon you're looking for.
+* Add to Favorites: Add your favorite Pokémon to a special list for easy access.
+* Filter by Favorites: Filter the Pokémon list to only show your favorite Pokémon.
+* Modal with Details: View information about each Pokémon in a modal window, including their normal form and shiny form and types.
+* API Integration: The app has an API built with Node.js and Express, as seen in the server\routes\api.js file. This suggests that the app retrieves data from the API to display information about Pokémon.
+* Test: Included a little bit of testing
 
 ## Getting Started
 
